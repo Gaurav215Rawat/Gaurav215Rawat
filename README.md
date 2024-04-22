@@ -20,8 +20,8 @@ I love exploring new technologies and creating impactful solutions. Feel free to
 ## 📫 Let's Connect
 
 - 📧 [Email](mailto:gaurav215512@gmail.com)
-- 🌐 [LinkedIn](#) (Insert your LinkedIn link)
-- 🐙 [GitHub](#) (Insert your GitHub link)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/gaurav-rawat-174897263) 
+- 🐙 [GitHub](#)(https://github.com/Gaurav215Rawat)
 
 Let's build something amazing together! ✨
 
