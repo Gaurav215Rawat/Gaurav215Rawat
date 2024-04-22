@@ -1,16 +1,14 @@
-### Hi there 👋
+# Gaurav Rawat
 
-<!--
-**Gaurav215Rawat/Gaurav215Rawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hello!** I'm Gaurav Rawat, a passionate data scientist and software engineer. I specialize in machine learning, deep learning, and AI/ML, with hands-on experience in developing innovative solutions.
 
-Here are some ideas to get you started:
+- 📚 **Education**: Master's in Computer Applications from University of Petroleum and Energy Studies
+- 🧑‍💻 **Projects**: Created a dog emotion prediction system, an IMDB sentiment analysis model, and a linear regression predictor for student scores
+- 🏢 **Experience**: Worked as a Data Science Intern at Celebal Technology and AI/ML Intern at IBM & Pheme Software Pvt. Ltd
+- 💡 **Skills**: Proficient in Python, SQL, Machine Learning, and Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love exploring new technologies and creating impactful solutions. Feel free to explore my projects and connect with me for collaboration or just to talk about tech.
+
+📧 [Email](mailto:gaurav215512@gmail.com) | 🌐 [LinkedIn](#) | 🐙 [GitHub](#)
+
+Let's build something amazing together!
