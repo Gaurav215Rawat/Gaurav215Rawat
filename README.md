@@ -3,9 +3,10 @@
 **Hello!** I'm Gaurav Rawat, a passionate data scientist and software engineer. I specialize in machine learning, deep learning, and AI/ML, with hands-on experience in developing innovative solutions.
 
 🚀 What I Do
-🎓 Education: I hold a Master's degree in Computer Applications from the University of Petroleum and Energy Studies.
-💻 Projects: I've created innovative projects, like a dog emotion prediction system using ML and RNN, an IMDB sentiment analysis model, and a student score predictor using linear regression.
-🏢 Experience: I gained hands-on experience as a Data Science Intern at Celebal Technology and as an AI/ML Intern at IBM & Pheme Software Pvt. Ltd.g
+📚 Education: Master's in Computer Applications from University of Petroleum and Energy Studies
+🧑‍💻 Projects: Created a dog emotion prediction system, an IMDB sentiment analysis model, and a linear regression predictor for student scores
+🏢 Experience: Worked as a Data Science Intern at Celebal Technology and AI/ML Intern at IBM & Pheme Software Pvt. Ltd
+💡 Skills: Proficient in Python, SQL, Machine Learning, and Deep Learning
 
 I love exploring new technologies and creating impactful solutions. Feel free to explore my projects and connect with me for collaboration or just to talk about tech.
 
