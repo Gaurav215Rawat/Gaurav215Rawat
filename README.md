@@ -1,4 +1,4 @@
-# Welcome to My GitHub!
+# Welcome to My GitHub!😊
 
 Hi there, I'm **Gaurav Rawat** 👋, a tech enthusiast with a passion for data science, machine learning, and AI. I believe in the power of technology to transform the world, and I strive to contribute through my work.
 
