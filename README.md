@@ -9,6 +9,6 @@
 
 I love exploring new technologies and creating impactful solutions. Feel free to explore my projects and connect with me for collaboration or just to talk about tech.
 
-📧 [Email](mailto:gaurav215512@gmail.com) | 🌐 [LinkedIn](#) | 🐙 [GitHub](#)
+📧 [Email](mailto:gaurav215512@gmail.com) | 🌐 [LinkedIn](#https://www.linkedin.com/in/gaurav-rawat-174897263) 
 
 Let's build something amazing together!
